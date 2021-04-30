@@ -76,4 +76,8 @@ I could have written more apt docs and ER diagram is missing due to same reason 
 
 Overall I think This api fulfills most of the assignment requirements 
 
+superuser :
+electura
+25654
+@ /admin
 Thanks 
